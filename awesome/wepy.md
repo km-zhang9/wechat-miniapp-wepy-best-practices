@@ -1,3 +1,4 @@
+## WePY 资料汇总
 
  #### 目的
  收录被认为有价值的WEPY框架的资料，并通过级别、评价、备注的形式，让读者一目了然他们的难易层级、质量好坏等。
@@ -15,6 +16,5 @@
  
  级别  | 标题    | 类型  | 评价 | 备注   
  ----- |--------| ------|-----|-------
-初级必看 | [ES5 语法入门](https://wangdoc.com/javascript/basic/grammar.html) | 语法 |** | 基础，有点偏不必要的细节 
-初级比看 | [ES6 入门](http://es6.ruanyifeng.com/) | 语法 | ** | 基础，有点偏不必要的细节
-初级比看 | [ES6、ES7、ES8特性一锅炖](https://blog.csdn.net/zgrkaka/article/details/82863445) | 比较介绍 | *** | 很清晰
+初级必看 | [ES5 语法入门](https://wangdoc.com/javascript/basic/grammar.html) | 语法 | 中等 | 基础，有点偏不必要的细节 
+
