@@ -18,8 +18,8 @@
  
  级别  | 标题    | 类型  | 评价 | 备注   
  ----- |--------| ------|-----|-------
-初级必看 | [WePY 官方文档](https://wepyjs.github.io/wepy-docs/index.html?_blank) | 官方文档 | *** | 含1.X,2.0 的文档 
-初级 | [WePY 1.X 官方文档](https://tencent.github.io/wepy/donate.html?_blank) | 官方文档 | *** | 留着参考
-初级必看 | [aben1188的wepy开发资源汇总](https://github.com/aben1188/awesome-wepy?_blank) | 资源汇总 | *** | 同类资源汇总
-初级必看 | [快速入门 WePY 小程序](https://my.oschina.net/wangnian/blog/2245468?_blank) | 入门 | *** | 创建一个demo小程序
+初级必看 | [WePY 官方文档](https://wepyjs.github.io/wepy-docs/index.html) | 官方文档 | *** | 含1.X,2.0 的文档 
+初级 | [WePY 1.X 官方文档](https://tencent.github.io/wepy/donate.html) | 官方文档 | *** | 留着参考
+初级必看 | [aben1188的wepy开发资源汇总](https://github.com/aben1188/awesome-wepy) | 资源汇总 | *** | 同类资源汇总
+初级必看 | [快速入门 WePY 小程序](https://my.oschina.net/wangnian/blog/2245468) | 入门 | *** | 创建一个demo小程序
 
