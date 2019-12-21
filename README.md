@@ -21,7 +21,7 @@
 [WePY](awesome/wepy.md) | 以WePY 2.0 为主
 [VUE](awesome/vue.md) | WePY 2.0后，允许使用 VUE 技术编写；又VUE是非常流行、非常成熟的，所以该库中的前端技术采用的是VUE。
 [ECMAScript](awesome/ECMAScript.md) | 不需要学习，程序员差不多都能写页面中JavaScript，但自NodeJs把JavaScript扩展到实现后台，JavaScript的编程要求就与JAVA，C#这样的语言类似了，必须要熟练掌握，方能上岗。
-[webstrom](awesome/webstrom.md) | webstrom是非常流行的前端IDE，该库以WegStrom 为主IDE，其它的为辅。
+[WebStrom](awesome/webstrom.md) | WebStrom是非常流行的前端IDE，该库以WebStrom 为主IDE，其它的为辅。
 
 
 
