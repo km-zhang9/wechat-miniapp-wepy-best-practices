@@ -11,9 +11,10 @@
 
 #### 实操
 
-1. 打开cmd 窗口，转到存放项目的文件目录，执行命令 
+1. 使用脚手架，创建项目
+   打开cmd 窗口，转到存放项目的文件目录，执行命令 
    ```
-   $ wepy init standard#2.0.x projectName
+   $ wepy init standard#2.0.x helloWorldApp
    ```
 
 
