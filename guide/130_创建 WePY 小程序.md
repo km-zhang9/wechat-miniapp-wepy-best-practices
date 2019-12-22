@@ -6,7 +6,8 @@
 
 标题 | 推荐指数 | 备注   
 ---- | --------|-----
-[WePY 官方文档](https://wepyjs.github.io/wepy-docs/index.html) | *** | 含1.X,2.0 的文档 
+[wepy-cli 1.7 官方文档](https://wepyjs.github.io/wepy-docs/1.x/#/./doc.cli) | *** | 脚手架的详细介绍 
+[wepy-cli 2.0 官方文档](https://wepyjs.github.io/wepy-docs/2.x/#/base/getstart) | *** | 版本2的简单介绍 
 
 
 #### 实操
